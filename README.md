@@ -24,6 +24,7 @@ Help to grow the list.  **Fork, extend, pull request!**
 * [University of Arizona (Libraries)](https://github.com/ualibraries)
 * [University of California Davis](https://github.com/ucdavis)
 * [University of California Los Angeles](https://github.com/ucla)
+* [University of California Los Angeles Library](https://github.com/UCLALibrary)
 * [University of Cambridge-MISD Service Development](https://github.com/misd-service-development)
 * [University of Iowa](https://github.com/uiowa)
 * [University of London (Computer Centre)](https://github.com/ULCC)
